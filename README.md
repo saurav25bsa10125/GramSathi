@@ -59,9 +59,6 @@
 ---
 
 ## 🔒 Security & Safe Key Management
-
-- **Zero Client Secrets:** Secret keys are strictly maintained in server-side environment variables (`.env`).
-- **`.gitignore` Protected:** `.env` is ignored from git commits.
 - **Graceful Fallbacks:** If API keys are omitted, the application runs on high-fidelity offline datasets and local rule engines.
 
 ---
@@ -102,39 +99,10 @@ gramsathi/
 │   └── schemes.json            # 10 verified Government of India welfare schemes
 │
 └── locales/                    # Translation Dictionaries (EN, HI, PA, TA, TE)
-```
 
 ---
 
-## 🚀 Quick Start Guide
-
-### 1. Prerequisites
-- [Node.js](https://nodejs.org/) (v16+ recommended, zero extra npm packages required).
-
-### 2. Configure Environment (Optional for Live APIs)
-```powershell
-# Copy template to .env
-copy .env.example .env
-
-# Edit .env and supply your OPENAI_API_KEY / WEATHER_API_KEY
-```
-
-### 3. Launch Server
-```bash
-npm start
-# OR
-node server.js
-```
-
-### 4. Access Application
-Open your browser and navigate to:
-```
-http://localhost:3000
-```
-
----
-
-## 🎬 Recommended Judge Demonstration Script
+## 🎬  Demonstration tips
 
 1. **Dashboard:**
    - View the **Village Live Command Center** banner with live clock and metadata badges.
