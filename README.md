@@ -55,12 +55,6 @@
     - **Auto Mode:** Carousel automatically cycling through village subsystems every 6 seconds.
     - **Manual Mode:** Touch tiles expanding into detailed telemetry views.
     - Emergency alert pulsation on critical incidents.
-
----
-
-## 🔒 Security & Safe Key Management
-- **Graceful Fallbacks:** If API keys are omitted, the application runs on high-fidelity offline datasets and local rule engines.
-
 ---
 
 ## 📁 Repository Directory Structure
@@ -136,5 +130,9 @@ gramsathi/
    - Click **"Read Aloud"** (🔊) to hear the spoken response.
 
 8. **Community cosmos Wall Display:**
+
+## 🔒 Security & Safe Key Management
+- **Graceful Fallbacks:** If API keys are omitted, the application runs on high-fidelity offline datasets and local rule engines.
+
    - Click **"cosmos Wall Display"** → experience the animated isometric village map with live energy and water flow.
    - Toggle **Auto Mode** to watch the carousel cycle smoothly through village subsystems.
