@@ -134,6 +134,8 @@ gramsathi/
    - Toggle **Auto Mode** to watch the carousel cycle smoothly through village subsystems.
    
  ---
+---
 
-## 🔐 **Security & Safe Key Management**
-- **Graceful Fallbacks:** If API keys are omitted, the application runs on high-fidelity offline datasets and local rule engines.
+## 🔐 Security & Safe Key Management
+
+**Graceful Fallbacks:** If API keys are omitted, the application runs using available offline/local fallback functionality.
