@@ -131,6 +131,8 @@ gramsathi/
 
 8. **Community cosmos Wall Display:**
 
+
+---
 ## 🔒 Security & Safe Key Management
 - **Graceful Fallbacks:** If API keys are omitted, the application runs on high-fidelity offline datasets and local rule engines.
 
