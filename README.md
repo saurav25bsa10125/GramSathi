@@ -133,9 +133,8 @@ gramsathi/
    - Click **"cosmos Wall Display"** → experience the animated isometric village map with live energy and water flow.
    - Toggle **Auto Mode** to watch the carousel cycle smoothly through village subsystems.
    
- ---
 ---
 
-## 🔐 Security & Safe Key Management
+## 🔐** Security & Safe Key Management**
 
 **Graceful Fallbacks:** If API keys are omitted, the application runs using available offline/local fallback functionality.
