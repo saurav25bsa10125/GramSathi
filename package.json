@@ -1,0 +1,13 @@
+{
+  "name": "gramsathi",
+  "version": "2.0.0",
+  "description": "GramSathi — Solar-Powered Smart Village Hub and Rural Digital Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["rural", "iot", "smart-village", "dairy", "agriculture", "mandi", "weather"],
+  "author": "GramSathi Team",
+  "license": "MIT"
+}
